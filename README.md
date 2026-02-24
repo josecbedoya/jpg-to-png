@@ -7,17 +7,17 @@ This Python script converts all the JPG images from a folder "image_folder" to P
 
 ## ⚙️ Installation
 
-Clone the repository:
-
+1. Clone the repository
 ```bash
 git clone https://github.com/josecbedoya/jpg-to-png.git
 cd jpg-to-png
+```
 
-Install dependences:
+2. Install dependences:
 
 ```bash
 pip install Pillow
-
+```
 
 ## 🚀 Usage
 
@@ -25,3 +25,4 @@ Run this script from the console, specifying both the image source folder and th
 
 ```bash
 python convert.py path/to/images path/to/output
+```
